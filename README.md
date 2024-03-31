@@ -19,5 +19,7 @@ Power BI Desktop offers a plethora of advanced tools and features to enhance dat
 ![Screenshot (27)](https://github.com/anujchahal0001/Amazon-Super-Store-power-bi-Project/assets/135965570/57b0acbb-871f-492d-9171-46dd1a2e98be)
 ![Screenshot (28)](https://github.com/anujchahal0001/Amazon-Super-Store-power-bi-Project/assets/135965570/4422103c-98af-4b56-8d5a-131318c9955c)
 ![Screenshot (30)](https://github.com/anujchahal0001/Amazon-Super-Store-power-bi-Project/assets/135965570/d661eeab-fdb1-4f2e-bc0b-2c57e2c8fe3d)
+![Screenshot (31)](https://github.com/anujchahal0001/Amazon-Super-Store-power-bi-Project/assets/135965570/fda5697c-a32b-4280-b0d5-9016edfd4abf)
+![Screenshot (32)](https://github.com/anujchahal0001/Amazon-Super-Store-power-bi-Project/assets/135965570/4cb7b3f8-1b20-461f-b7ab-f166e2ee81fa)
 
 
